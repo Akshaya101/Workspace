@@ -1,0 +1,42 @@
+.progress-bar{
+    width:100%;
+    background-color: #fff;
+    text-align: center;
+    width: 15rem;
+}
+
+.play-pause-icon{
+    font-size: 3rem;
+    cursor: pointer;
+}
+
+label{
+    display: block;
+}
+
+.slider{
+    height: 40px;
+    border: 2px solid #f54e4e;
+    margin-top: 1rem;
+    border-radius: 20px;
+}
+.thumb{
+    background-color: #f54e4e;
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+}
+.slider.green{
+    height: 40px;
+    border: 2px solid #4aec8c;
+    margin-top: 1rem;
+    border-radius: 20px;
+}
+.slider.green .thumb{
+    background-color: #4aec8c;
+    cursor: pointer;
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+}

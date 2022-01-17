@@ -1,0 +1,29 @@
+html{
+    overflow-x: hidden;
+}
+.heading{
+    font-family: 'Satisfy', cursive;
+    font-size: 3rem;
+    text-align: left;
+    background-color: #F0ECE3;
+    padding: 5px 0 10px 18px;
+    margin-bottom: 0;
+}
+.quote{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    text-align: center;
+    background-color: #DFD3C3;
+    padding: 6.55rem 2rem 7rem 2rem;
+    margin-bottom: 0;
+}
+.quote-div{
+    margin: 0;
+    padding: 0;
+}
+.spotify{
+    padding: 0 0 0 12px;
+    position:relative;
+}
+/* font-family: 'Pacifico', cursive;
+font-family: 'Satisfy', cursive; */

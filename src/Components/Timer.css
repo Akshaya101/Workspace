@@ -1,0 +1,19 @@
+.content{
+    padding-top: 69px;
+}
+.time{
+    text-align: center;
+    font-size: 5.5rem;
+    padding: 3rem;
+    letter-spacing: 1.5px;
+}
+.timer-button{
+    padding: 0.7rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color:#212121;
+}
+.bottom-part{
+    margin-top: 10px;
+}

@@ -1,0 +1,15 @@
+html{
+    overflow-y:hidden ;
+}
+.to-do-list{
+    margin: 10px;
+}
+.timer{
+    margin: 10px;
+}
+.features{
+    margin-top: 50px;
+}
+.background-video-style{
+    filter:opacity(0.4);
+}
